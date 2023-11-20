@@ -1,0 +1,6 @@
+
+hpython:S6711"DUse a "numpy.random.Generator" here instead of this legacy function.(Ëüåùÿÿÿÿ8œ†ÿÚ¼1
+hpython:S6711"DUse a "numpy.random.Generator" here instead of this legacy function.(×øç¬ıÿÿÿÿ8†ÿÚ¼1
+qpython:S1542&"RRename function "regScoreFunc" to match the regular expression ^[a-z_][a-z0-9_]*$.(›±Õİ8†ÿÚ¼1
+cpython:S67113"DUse a "numpy.random.Generator" here instead of this legacy function.(ûŠÊ¬8÷ËÛ¼1
+hpython:S67114"DUse a "numpy.random.Generator" here instead of this legacy function.(ò‡»ûÿÿÿÿ8‡şÛ¼1

@@ -1,0 +1,5 @@
+
+=python:S125$"Remove this commented out code.(ÃÓôÅ8 îÌ·½1
+opython:S1854p"KRemove this assignment to local variable 'X_test'; the value is never used.(ã»şøÿÿÿÿ8¡îÌ·½1
+ppython:S117["MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñ²…Ïıÿÿÿÿ8¡îÌ·½1
+zpython:S117p"WRename this local variable "X_test" to match the regular expression ^[_a-z][a-z0-9_]*$.(ã»şøÿÿÿÿ8¡îÌ·½1

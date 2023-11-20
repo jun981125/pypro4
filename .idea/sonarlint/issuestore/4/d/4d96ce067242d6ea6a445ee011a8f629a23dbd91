@@ -1,0 +1,4 @@
+
+ppython:S1854±"KRemove this assignment to local variable 'X_test'; the value is never used.(ã»şøÿÿÿÿ8íÁ¼½1
+qpython:S117œ"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñ²…Ïıÿÿÿÿ8íÁ¼½1
+{python:S117±"WRename this local variable "X_test" to match the regular expression ^[_a-z][a-z0-9_]*$.(ã»şøÿÿÿÿ8îÁ¼½1
